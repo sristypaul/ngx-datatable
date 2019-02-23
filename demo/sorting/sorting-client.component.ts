@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   template: `
     <div>
       <h3>
-        Client-side Sorting
+        Client-side Sortinggjggj
         <small>
           <a href="https://github.com/swimlane/ngx-datatable/blob/master/demo/sorting/sorting-client.component.ts" target="_blank">
             Source
